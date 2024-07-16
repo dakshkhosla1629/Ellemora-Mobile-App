@@ -1,7 +1,23 @@
 # Ellemora-Mobile-App
 Ellemora is a Flutter-based e-commerce application that allows users to browse and purchase products from the FakeStore API. It includes features such as user authentication, product listing, category filtering, search functionality, and cart management with persistent storage.
 
-Tech Stack
+**Getting Started**
+To get started with **Ellemora**, follow these steps:
+
+**Clone the Repository**
+download the zip file extract it 
+cd ellemora/
+
+**Install Dependencies**
+flutter pub get
+
+Run the App
+
+flutter run
+**Explore the App**
+Navigate through the app to explore different features such as product listing, search, cart management, and buy-now functionality.
+
+**Tech Stack**
 Flutter
 Firebase Authentication
 Firebase Firestore (Storage)
