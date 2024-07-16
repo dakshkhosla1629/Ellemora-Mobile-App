@@ -9,11 +9,12 @@ download the zip file extract it
 cd ellemora/
 
 **Install Dependencies**
+
 flutter pub get
 
-Run the App
-
+**Run the App**
 flutter run
+
 **Explore the App**
 Navigate through the app to explore different features such as product listing, search, cart management, and buy-now functionality.
 
