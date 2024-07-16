@@ -6,10 +6,9 @@ Flutter
 Firebase Authentication
 Firebase Firestore (Storage)
 Provider (for state management)
-Razorpay Flutter SDK
+Razorpay Flutter SD
 
 **Features**
-
 **User Authentication**
 
 Users can sign up or log in to access the app.
